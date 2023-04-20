@@ -17,7 +17,7 @@ This page features a curated selection of famous quotes and passages from some o
 
 - Overall, our goal is to create a space where readers can explore the beauty and power of poetry. Whether you are an avid poetry reader or just beginning to explore this genre, we hope that our website provides something of value for you.
 
-![Alt text](public/Capture.PNG)
+![Alt text](poetic-inspirations/public/Capture.PNG)
 
 ## Website Link
 - https://poetic-inspirations.netlify.app/
