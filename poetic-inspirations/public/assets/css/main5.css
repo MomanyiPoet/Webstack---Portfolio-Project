@@ -3476,7 +3476,7 @@ input, select, textarea {
 		}
 
         .ctrl1 {
-            width: ;
+            /* width: ; */
             height: 50px;
         }
 
@@ -3607,7 +3607,7 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
-	@media screen and (max-width: 1280px) {
+	@media screen and (max-width: 1680px) {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
