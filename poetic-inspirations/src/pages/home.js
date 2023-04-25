@@ -25,7 +25,7 @@ function Home() {
 								<li><a href="quotes">Quotes</a></li>
 								<li><a href="books">Book Reviews</a></li>
 								<li><a href="inspirations">Inspirations</a></li>
-								<li><a href="">Blog</a></li>
+								<li><a href="https://localhost/blog/index.php">Blog</a></li>
 								<li><a href="#about-us">About Us</a></li>
 								<li><a href="#contact-us">Contact Us</a></li>
 							</ul>
@@ -116,7 +116,7 @@ function Home() {
 							</blockquote>
 
 							<h2 className="major" id="contact-us">Get in touch</h2>
-							<form method="post" action="#">
+							{/* <form method="post" action="#">
 								<div className="fields">
 									<div className="field">
 										<label for="name">Name</label>
@@ -134,7 +134,7 @@ function Home() {
 								<ul className="actions">
 									<li><input type="submit" value="Send Message" /></li>
 								</ul>
-							</form>
+							</form> */}
 							<ul className="contact">
 								<li className="icon solid fa-home">
 									Nairobi, Kenya
